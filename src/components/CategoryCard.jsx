@@ -49,7 +49,7 @@ export default function CategoryCard() {
               className="flex flex-col"
             >
               <img
-                src={category.img}
+                src={category.image}
                 alt={category.title}
                 className=" w-[305px] h-[283px] object-contain"
               />
